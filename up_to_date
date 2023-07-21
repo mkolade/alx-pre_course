@@ -1,0 +1,3 @@
+created file UP_TO_DATE with echo
+git fetch origin master
+git merge origin/master
