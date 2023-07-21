@@ -1,3 +1,4 @@
 created file up_to_date
 git fetch origin master
 git merge origin/master
+git pull origin master
